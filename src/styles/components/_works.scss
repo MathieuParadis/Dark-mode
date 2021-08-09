@@ -1,0 +1,11 @@
+.works-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+
+  .work-bullet {
+    list-style: none;
+    flex: 0 0 30%;
+  }
+}
+
